@@ -1,0 +1,229 @@
+2024-07-18 07:04:43 CREATE /home/venice/.cache/spotify/Default/Cache/Cache_Data/9ee06a826bbed12b_0
+2024-07-18 07:04:43 OPEN /home/venice/.cache/spotify/Default/Cache/Cache_Data/9ee06a826bbed12b_0
+2024-07-18 07:04:43 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/9ee06a826bbed12b_0
+2024-07-18 07:04:44 MODIFY /home/venice/.cache/spotify/public.ldb/000437.log
+2024-07-18 07:04:44 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/9ee06a826bbed12b_0
+2024-07-18 07:04:44 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/9ee06a826bbed12b_0
+2024-07-18 07:04:44 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/9ee06a826bbed12b_0
+2024-07-18 07:04:44 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/Cache/Cache_Data/9ee06a826bbed12b_0
+2024-07-18 07:04:44 CREATE /home/venice/.cache/spotify/Default/Code Cache/js/index-dir/temp-index
+2024-07-18 07:04:44 OPEN /home/venice/.cache/spotify/Default/Code Cache/js/index-dir/temp-index
+2024-07-18 07:04:44 MODIFY /home/venice/.cache/spotify/Default/Code Cache/js/index-dir/temp-index
+2024-07-18 07:04:44 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/Code Cache/js/index-dir/temp-index
+2024-07-18 07:04:44 MOVED_FROM /home/venice/.cache/spotify/Default/Code Cache/js/index-dir/temp-index
+2024-07-18 07:04:44 MOVED_TO /home/venice/.cache/spotify/Default/Code Cache/js/index-dir/the-real-index
+2024-07-18 07:04:45 DELETE /home/venice/.cache/spotify/Default/Cache/Cache_Data/ea0f5f5a53dcb663_0
+2024-07-18 07:04:45 CREATE /home/venice/.cache/spotify/Default/Cache/Cache_Data/ea0f5f5a53dcb663_0
+2024-07-18 07:04:45 OPEN /home/venice/.cache/spotify/Default/Cache/Cache_Data/ea0f5f5a53dcb663_0
+2024-07-18 07:04:45 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/ea0f5f5a53dcb663_0
+2024-07-18 07:04:46 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/ea0f5f5a53dcb663_0
+2024-07-18 07:04:46 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/Cache/Cache_Data/ea0f5f5a53dcb663_0
+2024-07-18 07:04:46 MODIFY /home/venice/.cache/spotify/Default/Sessions/Session_13365759482608321
+2024-07-18 07:04:46 DELETE /home/venice/.cache/spotify/Default/Cache/Cache_Data/b0f7a440576b7e6d_0
+2024-07-18 07:04:46 CREATE /home/venice/.cache/spotify/Default/Cache/Cache_Data/b0f7a440576b7e6d_0
+2024-07-18 07:04:46 OPEN /home/venice/.cache/spotify/Default/Cache/Cache_Data/b0f7a440576b7e6d_0
+2024-07-18 07:04:46 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/b0f7a440576b7e6d_0
+2024-07-18 07:04:46 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/b0f7a440576b7e6d_0
+2024-07-18 07:04:46 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/Cache/Cache_Data/b0f7a440576b7e6d_0
+2024-07-18 07:04:51 CREATE /home/venice/.cache/spotify/Default/Cache/Cache_Data/317e297e66914826_0
+2024-07-18 07:04:51 OPEN /home/venice/.cache/spotify/Default/Cache/Cache_Data/317e297e66914826_0
+2024-07-18 07:04:51 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/317e297e66914826_0
+2024-07-18 07:04:51 DELETE /home/venice/.cache/spotify/Default/Cache/Cache_Data/c696d680b1a21f31_0
+2024-07-18 07:04:51 CREATE /home/venice/.cache/spotify/Default/Cache/Cache_Data/c696d680b1a21f31_0
+2024-07-18 07:04:51 OPEN /home/venice/.cache/spotify/Default/Cache/Cache_Data/c696d680b1a21f31_0
+2024-07-18 07:04:51 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/c696d680b1a21f31_0
+2024-07-18 07:04:51 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/c696d680b1a21f31_0
+2024-07-18 07:04:51 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/c696d680b1a21f31_0
+2024-07-18 07:04:51 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/c696d680b1a21f31_0
+2024-07-18 07:04:51 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/c696d680b1a21f31_0
+2024-07-18 07:04:51 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/Cache/Cache_Data/c696d680b1a21f31_0
+2024-07-18 07:04:53 OPEN /home/venice/.cache/spotify/Default/Reporting and NEL-journal
+2024-07-18 07:04:53 MODIFY /home/venice/.cache/spotify/Default/Reporting and NEL-journal
+2024-07-18 07:04:53 MODIFY /home/venice/.cache/spotify/Default/Reporting and NEL-journal
+2024-07-18 07:04:53 OPEN,ISDIR /home/venice/.cache/spotify/Default
+2024-07-18 07:04:53 OPEN,ISDIR /home/venice/.cache/spotify/Default/
+2024-07-18 07:04:53 CLOSE_NOWRITE,CLOSE,ISDIR /home/venice/.cache/spotify/Default
+2024-07-18 07:04:53 CLOSE_NOWRITE,CLOSE,ISDIR /home/venice/.cache/spotify/Default/
+2024-07-18 07:04:53 MODIFY /home/venice/.cache/spotify/Default/Reporting and NEL-journal
+2024-07-18 07:04:53 MODIFY /home/venice/.cache/spotify/Default/Reporting and NEL
+2024-07-18 07:04:53 MODIFY /home/venice/.cache/spotify/Default/Reporting and NEL-journal
+2024-07-18 07:04:53 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/Reporting and NEL-journal
+2024-07-18 07:04:54 CREATE /home/venice/.cache/spotify/Default/.org.chromium.Chromium.FQaP1X
+2024-07-18 07:04:54 OPEN /home/venice/.cache/spotify/Default/.org.chromium.Chromium.FQaP1X
+2024-07-18 07:04:54 MODIFY /home/venice/.cache/spotify/Default/.org.chromium.Chromium.FQaP1X
+2024-07-18 07:04:54 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/.org.chromium.Chromium.FQaP1X
+2024-07-18 07:04:54 MOVED_FROM /home/venice/.cache/spotify/Default/.org.chromium.Chromium.FQaP1X
+2024-07-18 07:04:54 MOVED_TO /home/venice/.cache/spotify/Default/Network Persistent State
+2024-07-18 07:04:55 CREATE /home/venice/.cache/spotify/Default/.org.chromium.Chromium.L6JZY4
+2024-07-18 07:04:55 OPEN /home/venice/.cache/spotify/Default/.org.chromium.Chromium.L6JZY4
+2024-07-18 07:04:55 MODIFY /home/venice/.cache/spotify/Default/.org.chromium.Chromium.L6JZY4
+2024-07-18 07:04:55 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/.org.chromium.Chromium.L6JZY4
+2024-07-18 07:04:55 MOVED_FROM /home/venice/.cache/spotify/Default/.org.chromium.Chromium.L6JZY4
+2024-07-18 07:04:55 MOVED_TO /home/venice/.cache/spotify/Default/TransportSecurity
+2024-07-18 07:05:00 MODIFY /home/venice/.cache/spotify/public.ldb/000437.log
+2024-07-18 07:05:03 MODIFY /home/venice/.cache/spotify/Users/31waz63mxefnxl5bakboiai4mnbu-user/primary.ldb/000567.log
+2024-07-18 07:05:03 MODIFY /home/venice/.cache/spotify/public.ldb/000437.log
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/public.ldb/000437.log
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/public.ldb/000437.log
+2024-07-18 07:05:04 CREATE /home/venice/.cache/spotify/Default/Cache/Cache_Data/9752d6dd056b824b_0
+2024-07-18 07:05:04 OPEN /home/venice/.cache/spotify/Default/Cache/Cache_Data/9752d6dd056b824b_0
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/9752d6dd056b824b_0
+2024-07-18 07:05:04 CREATE /home/venice/.cache/spotify/Default/Cache/Cache_Data/16698f63ad75c1df_0
+2024-07-18 07:05:04 OPEN /home/venice/.cache/spotify/Default/Cache/Cache_Data/16698f63ad75c1df_0
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/16698f63ad75c1df_0
+2024-07-18 07:05:04 CREATE /home/venice/.cache/spotify/Default/Cache/Cache_Data/26724551469fa011_0
+2024-07-18 07:05:04 OPEN /home/venice/.cache/spotify/Default/Cache/Cache_Data/26724551469fa011_0
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/26724551469fa011_0
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/9752d6dd056b824b_0
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/9752d6dd056b824b_0
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/9752d6dd056b824b_0
+2024-07-18 07:05:04 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/Cache/Cache_Data/9752d6dd056b824b_0
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/16698f63ad75c1df_0
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/16698f63ad75c1df_0
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/16698f63ad75c1df_0
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/16698f63ad75c1df_0
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/16698f63ad75c1df_0
+2024-07-18 07:05:04 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/Cache/Cache_Data/16698f63ad75c1df_0
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/26724551469fa011_0
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/26724551469fa011_0
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/26724551469fa011_0
+2024-07-18 07:05:04 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/Cache/Cache_Data/26724551469fa011_0
+2024-07-18 07:05:04 OPEN /home/venice/.cache/spotify/Default/Cache/Cache_Data/c0238e0c94d6781e_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Cache/Cache_Data/c0238e0c94d6781e_0
+2024-07-18 07:05:04 OPEN /home/venice/.cache/spotify/Default/Code Cache/js/e7a90b63147925b4_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Code Cache/js/e7a90b63147925b4_0
+2024-07-18 07:05:04 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/Code Cache/js/e7a90b63147925b4_0
+2024-07-18 07:05:04 OPEN /home/venice/.cache/spotify/Default/Code Cache/js/6b7a27567fb04587_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Code Cache/js/6b7a27567fb04587_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Cache/Cache_Data/c0238e0c94d6781e_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Code Cache/js/6b7a27567fb04587_0
+2024-07-18 07:05:04 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/Code Cache/js/6b7a27567fb04587_0
+2024-07-18 07:05:04 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/Cache/Cache_Data/c0238e0c94d6781e_0
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/DIPS-journal
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/DIPS-journal
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/DIPS
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/DIPS-journal
+2024-07-18 07:05:04 CREATE /home/venice/.cache/spotify/Default/Cache/Cache_Data/3e8fe8ed96801dcc_0
+2024-07-18 07:05:04 OPEN /home/venice/.cache/spotify/Default/Cache/Cache_Data/3e8fe8ed96801dcc_0
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/3e8fe8ed96801dcc_0
+2024-07-18 07:05:04 CREATE /home/venice/.cache/spotify/Default/Cache/Cache_Data/0952dda687f0cccc_0
+2024-07-18 07:05:04 OPEN /home/venice/.cache/spotify/Default/Cache/Cache_Data/0952dda687f0cccc_0
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/0952dda687f0cccc_0
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/3e8fe8ed96801dcc_0
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/3e8fe8ed96801dcc_0
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/3e8fe8ed96801dcc_0
+2024-07-18 07:05:04 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/Cache/Cache_Data/3e8fe8ed96801dcc_0
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/0952dda687f0cccc_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Cache/Cache_Data/0952dda687f0cccc_0
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/0952dda687f0cccc_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Cache/Cache_Data/0952dda687f0cccc_0
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/Session Storage/000460.log
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/0952dda687f0cccc_0
+2024-07-18 07:05:04 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/Cache/Cache_Data/0952dda687f0cccc_0
+2024-07-18 07:05:04 OPEN /home/venice/.cache/spotify/Default/Code Cache/js/5f19b080f9173b17_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Code Cache/js/5f19b080f9173b17_0
+2024-07-18 07:05:04 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/Code Cache/js/5f19b080f9173b17_0
+2024-07-18 07:05:04 OPEN /home/venice/.cache/spotify/Default/Code Cache/js/cb923aa4de6bac06_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Code Cache/js/cb923aa4de6bac06_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Code Cache/js/cb923aa4de6bac06_0
+2024-07-18 07:05:04 OPEN /home/venice/.cache/spotify/Default/Code Cache/js/182b5801db246d99_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Code Cache/js/182b5801db246d99_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Code Cache/js/cb923aa4de6bac06_0
+2024-07-18 07:05:04 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/Code Cache/js/cb923aa4de6bac06_0
+2024-07-18 07:05:04 OPEN /home/venice/.cache/spotify/Default/Code Cache/js/63e6ac075953b175_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Code Cache/js/63e6ac075953b175_0
+2024-07-18 07:05:04 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/Code Cache/js/182b5801db246d99_0
+2024-07-18 07:05:04 OPEN /home/venice/.cache/spotify/Default/Code Cache/js/f32b22008b308614_0
+2024-07-18 07:05:04 OPEN /home/venice/.cache/spotify/Default/Code Cache/js/f9d14e5853a7ea63_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Code Cache/js/f32b22008b308614_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Code Cache/js/f9d14e5853a7ea63_0
+2024-07-18 07:05:04 OPEN /home/venice/.cache/spotify/Default/Code Cache/js/ae04ff522e538414_0
+2024-07-18 07:05:04 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/Code Cache/js/63e6ac075953b175_0
+2024-07-18 07:05:04 OPEN /home/venice/.cache/spotify/Default/Code Cache/js/4cfee0dffde60f38_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Code Cache/js/f32b22008b308614_0
+2024-07-18 07:05:04 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/Code Cache/js/f9d14e5853a7ea63_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Code Cache/js/ae04ff522e538414_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Code Cache/js/4cfee0dffde60f38_0
+2024-07-18 07:05:04 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/Code Cache/js/f32b22008b308614_0
+2024-07-18 07:05:04 OPEN /home/venice/.cache/spotify/Default/Code Cache/js/0aafce39e0976839_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Code Cache/js/0aafce39e0976839_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Code Cache/js/ae04ff522e538414_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Code Cache/js/0aafce39e0976839_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Code Cache/js/4cfee0dffde60f38_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Code Cache/js/4cfee0dffde60f38_0
+2024-07-18 07:05:04 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/Code Cache/js/ae04ff522e538414_0
+2024-07-18 07:05:04 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/Code Cache/js/0aafce39e0976839_0
+2024-07-18 07:05:04 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/Code Cache/js/4cfee0dffde60f38_0
+2024-07-18 07:05:04 OPEN /home/venice/.cache/spotify/Default/Cache/Cache_Data/d05926b9ace92068_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Cache/Cache_Data/d05926b9ace92068_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Cache/Cache_Data/d05926b9ace92068_0
+2024-07-18 07:05:04 OPEN /home/venice/.cache/spotify/Default/Cache/Cache_Data/f5e66794a33d9451_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Cache/Cache_Data/f5e66794a33d9451_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Cache/Cache_Data/f5e66794a33d9451_0
+2024-07-18 07:05:04 OPEN /home/venice/.cache/spotify/Default/Cache/Cache_Data/85def3e69f3a6a1f_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Cache/Cache_Data/85def3e69f3a6a1f_0
+2024-07-18 07:05:04 OPEN /home/venice/.cache/spotify/Default/Cache/Cache_Data/ee8a0a6e785d3041_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Cache/Cache_Data/ee8a0a6e785d3041_0
+2024-07-18 07:05:04 OPEN /home/venice/.cache/spotify/Default/Cache/Cache_Data/730fc9e00a0ad635_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Cache/Cache_Data/730fc9e00a0ad635_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Cache/Cache_Data/730fc9e00a0ad635_0
+2024-07-18 07:05:04 OPEN /home/venice/.cache/spotify/Default/Cache/Cache_Data/755e3641a20ed070_0
+2024-07-18 07:05:04 CREATE /home/venice/.cache/spotify/Default/Cache/Cache_Data/fdf155dcbe08c513_0
+2024-07-18 07:05:04 OPEN /home/venice/.cache/spotify/Default/Cache/Cache_Data/fdf155dcbe08c513_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Cache/Cache_Data/755e3641a20ed070_0
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/fdf155dcbe08c513_0
+2024-07-18 07:05:04 OPEN /home/venice/.cache/spotify/Default/Cache/Cache_Data/56f1a5f3d5e0dcee_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Cache/Cache_Data/56f1a5f3d5e0dcee_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Cache/Cache_Data/56f1a5f3d5e0dcee_0
+2024-07-18 07:05:04 CREATE /home/venice/.cache/spotify/Default/Cache/Cache_Data/37d59bdd66cdc81c_0
+2024-07-18 07:05:04 OPEN /home/venice/.cache/spotify/Default/Cache/Cache_Data/37d59bdd66cdc81c_0
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/37d59bdd66cdc81c_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Cache/Cache_Data/d05926b9ace92068_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Cache/Cache_Data/f5e66794a33d9451_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Cache/Cache_Data/85def3e69f3a6a1f_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Cache/Cache_Data/ee8a0a6e785d3041_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Cache/Cache_Data/730fc9e00a0ad635_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Cache/Cache_Data/755e3641a20ed070_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Cache/Cache_Data/d05926b9ace92068_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Cache/Cache_Data/56f1a5f3d5e0dcee_0
+2024-07-18 07:05:04 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/Cache/Cache_Data/f5e66794a33d9451_0
+2024-07-18 07:05:04 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/Cache/Cache_Data/ee8a0a6e785d3041_0
+2024-07-18 07:05:04 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/Cache/Cache_Data/d05926b9ace92068_0
+2024-07-18 07:05:04 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/Cache/Cache_Data/730fc9e00a0ad635_0
+2024-07-18 07:05:04 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/Cache/Cache_Data/755e3641a20ed070_0
+2024-07-18 07:05:04 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/Cache/Cache_Data/85def3e69f3a6a1f_0
+2024-07-18 07:05:04 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/Cache/Cache_Data/56f1a5f3d5e0dcee_0
+2024-07-18 07:05:04 OPEN /home/venice/.cache/spotify/Default/Cache/Cache_Data/fc2ede19cf6ca0f5_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Cache/Cache_Data/fc2ede19cf6ca0f5_0
+2024-07-18 07:05:04 ACCESS /home/venice/.cache/spotify/Default/Cache/Cache_Data/fc2ede19cf6ca0f5_0
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/fdf155dcbe08c513_0
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/fdf155dcbe08c513_0
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/fdf155dcbe08c513_0
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/fdf155dcbe08c513_0
+2024-07-18 07:05:04 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/fdf155dcbe08c513_0
+2024-07-18 07:05:04 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/Cache/Cache_Data/fdf155dcbe08c513_0
+2024-07-18 07:05:05 CREATE /home/venice/.cache/spotify/Default/Cache/Cache_Data/4ceb291e3691656d_0
+2024-07-18 07:05:05 OPEN /home/venice/.cache/spotify/Default/Cache/Cache_Data/4ceb291e3691656d_0
+2024-07-18 07:05:05 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/4ceb291e3691656d_0
+2024-07-18 07:05:05 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/4ceb291e3691656d_0
+2024-07-18 07:05:06 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/4ceb291e3691656d_0
+2024-07-18 07:05:06 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/4ceb291e3691656d_0
+2024-07-18 07:05:06 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/4ceb291e3691656d_0
+2024-07-18 07:05:06 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/Cache/Cache_Data/4ceb291e3691656d_0
+2024-07-18 07:05:06 MODIFY /home/venice/.cache/spotify/Users/31waz63mxefnxl5bakboiai4mnbu-user/primary.ldb/000567.log
+2024-07-18 07:05:06 MODIFY /home/venice/.cache/spotify/Users/31waz63mxefnxl5bakboiai4mnbu-user/primary.ldb/000567.log
+2024-07-18 07:05:06 MODIFY /home/venice/.cache/spotify/Users/31waz63mxefnxl5bakboiai4mnbu-user/primary.ldb/000567.log
+2024-07-18 07:05:06 MODIFY /home/venice/.cache/spotify/Users/31waz63mxefnxl5bakboiai4mnbu-user/primary.ldb/000567.log
+2024-07-18 07:05:06 MODIFY /home/venice/.cache/spotify/Users/31waz63mxefnxl5bakboiai4mnbu-user/primary.ldb/000567.log
+2024-07-18 07:05:06 MODIFY /home/venice/.cache/spotify/Users/31waz63mxefnxl5bakboiai4mnbu-user/primary.ldb/000567.log
+2024-07-18 07:05:06 MOVED_FROM /home/venice/.cache/spotify/Default/Cache/Cache_Data/317e297e66914826_0
+2024-07-18 07:05:06 MOVED_TO /home/venice/.cache/spotify/Default/Cache/Cache_Data/todelete_317e297e66914826_0_1
+2024-07-18 07:05:06 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/todelete_317e297e66914826_0_1
+2024-07-18 07:05:06 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/todelete_317e297e66914826_0_1
+2024-07-18 07:05:06 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/todelete_317e297e66914826_0_1
+2024-07-18 07:05:06 MODIFY /home/venice/.cache/spotify/Default/Cache/Cache_Data/todelete_317e297e66914826_0_1
+2024-07-18 07:05:06 DELETE /home/venice/.cache/spotify/Default/Cache/Cache_Data/todelete_317e297e66914826_0_1
+2024-07-18 07:05:06 CLOSE_WRITE,CLOSE /home/venice/.cache/spotify/Default/Cache/Cache_Data/todelete_317e297e66914826_0_1
+2024-07-18 07:05:06 MODIFY /home/venice/.cache/spotify/Default/Sessions/Session_13365759482608321
+2024-07-18 07:05:10 MODIFY /home/venice/.cache/spotify/Users/31waz63mxefnxl5bakboiai4mnbu-user/primary.ldb/000567.log
+2024-07-18 07:05:10 MODIFY /home/venice/.cache/spotify/Users/31waz63mxefnxl5bakboiai4mnbu-user/primary.ldb/000567.log
